@@ -1,4 +1,14 @@
-## Hi there 👋
+# Welcome to my profile 🔥
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/seitan_meitoo?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/seitan_meitoo) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/seitanmeitoo?logo=GitHub&style=for-the-badge)](https://github.com/seitanmeitoo) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/seitanmeitoo?logo=github&style=for-the-badge)](https://github.com/seitanmeitoo) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/seitanmeitoo?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/seitanmeitoo)
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/757666085767086132?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=A60707-E73636-FE7C7C&imgStyle=square&imgBorderRadius=25px&hideSpotify=true)](https://discord.com/users/757666085767086132)
+
+## About me 💬
+*In future...*
+
+# 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seitanmeitoo&theme=meta-dark&hide_border=true&border_radius=5)](https:/github.com/seitanmeitoo)
 
 <!--
 **seitanmeitoo/seitanmeitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
