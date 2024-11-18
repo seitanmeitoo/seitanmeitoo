@@ -7,7 +7,7 @@
 ## About me 💬
 *In future...*
 
-# 
+## Stats ✨
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seitanmeitoo&theme=meta-dark&hide_border=true&border_radius=5)](https:/github.com/seitanmeitoo)
 
 <!--
