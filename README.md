@@ -1,7 +1,6 @@
 <p align="center">
 <!--  <img width="100px" src="" align="center" alt="Banner" /> -->
- <h1 align="center">🔥 Welcome to my profile 🔥</h1>
- <p align="center"></p>
+ <h1 align="center">🔥 Seitan_Karpoo 🔥</h1>
 </p>  
 
 <p align="center">
@@ -28,15 +27,30 @@
 ## About me 💬
 *In future...*
 
+## Experience 💻
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=23F7DF1E">
+</a>
+<a href="https://nodejs.org/docs/latest/api/">
+   <img src="https://img.shields.io/badge/Node_JS-181818?style=for-the-badge&logo=nodedotjs&logoColor=80bd00">
+</a>
+<a href="https://www.unrealengine.com/en-US/blog/introduction-to-blueprints">
+   <img src="https://img.shields.io/badge/Unreal_Engine-181818?style=for-the-badge&logo=unrealengine">
+</a>
+
+
 ## Stats ✨
-[![GitHub Stats seitanmeitoo](https://github-readme-stats.vercel.app/api?username=seitanmeitoo&show_icons=true&theme=transparent&rank_icon=github)](https:/github.com/seitanmeitoo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seitanmeitoo&layout=compact&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seitanmeitoo&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seitanmeitoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## Repository popular 📫
+
+<!-- ## Repository popular 📫
 [![handler-discord.js-v13](https://github-readme-stats.vercel.app/api/pin/?username=seitanmeitoo&repo=handler-discord.js-v13&theme=transparent)](https:/github.com/seitanmeitoo)
 
-<!--
 **seitanmeitoo/seitanmeitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
