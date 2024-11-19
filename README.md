@@ -27,13 +27,13 @@
 ## Experience 💻
 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=23F7DF1E">
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
 <a href="https://nodejs.org/docs/latest/api/">
-   <img src="https://img.shields.io/badge/Node_JS-181818?style=for-the-badge&logo=nodedotjs&logoColor=80bd00">
+   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 <a href="https://www.unrealengine.com/en-US/blog/introduction-to-blueprints">
-   <img src="https://img.shields.io/badge/Unreal_Engine-181818?style=for-the-badge&logo=unrealengine">
+   <img src="https://img.shields.io/badge/Unreal_Engine-181818.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 </a>
 
 
