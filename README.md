@@ -4,9 +4,6 @@
 </p>  
 
 <p align="center">
-  <a href="https://twitter.com/seitan_meitoo">
-      <img alt="Twitter" src="https://img.shields.io/twitter/follow/seitan_meitoo?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter" />
-  </a>
   <a href="https://github.com/seitanmeitoo">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/seitanmeitoo?logo=GitHub&style=for-the-badge">
   </a>
@@ -50,6 +47,22 @@
 ###
 
 <img src="https://raw.githubusercontent.com/seitanmeitoo/seitanmeitoo/output/snake.svg" alt="Snake animation"/>
+
+###
+
+<br clear="both">
+
+<div align="center">
+ <a href="https://twitter.com/seitan_meitoo">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+ </a>
+ <a href="https://discord.com/users/757666085767086132">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+ </a>
+ <a href="https://codepen.io/seitanmeitoo/">
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
+ </a>
+</div>
 
 ###
 
