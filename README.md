@@ -47,6 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seitanmeitoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/seitanmeitoo/seitanmeitoo/output/snake.svg" alt="Snake animation"/>
+
+###
 
 <!-- ## Repository popular 📫
 [![handler-discord.js-v13](https://github-readme-stats.vercel.app/api/pin/?username=seitanmeitoo&repo=handler-discord.js-v13&theme=transparent)](https:/github.com/seitanmeitoo)
