@@ -50,9 +50,6 @@
 
 ###-->
 
-
-<br clear="both">
-
 <div align="center">
  <a href="https://twitter.com/seitan_meitoo">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
@@ -60,7 +57,7 @@
  <a href="https://discord.com/users/757666085767086132">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
  </a>
- <a href="https://codepen.io/seitanmeitoo/">
+ <a href="">
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
  </a>
 </div>
