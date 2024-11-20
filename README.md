@@ -32,7 +32,7 @@
 <a href="https://nodejs.org/docs/latest/api/">
    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </a>
-<a href="https://www.unrealengine.com/en-US/blog/introduction-to-blueprints">
+<a href="https://dev.epicgames.com/community/unreal-engine">
    <img src="https://img.shields.io/badge/Unreal_Engine-181818.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 </a>
 
