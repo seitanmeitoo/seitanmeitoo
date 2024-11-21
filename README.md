@@ -29,10 +29,10 @@
 <a href="https://developer.mozilla.org/docs/Web/JavaScript">
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
-<a href="https://nodejs.org/docs/latest/api/">
+<a href="https://nodejs.org/docs/latest/api">
    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </a>
-<a href="https://dev.epicgames.com/community/unreal-engine">
+<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine">
    <img src="https://img.shields.io/badge/Unreal_Engine-181818.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 </a>
 
