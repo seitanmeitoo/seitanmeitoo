@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/757666085767086132">
-    <img alt="seitan_meioo's Discord Presence" src="https://lanyard.kyrie25.me/api/757666085767086132?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=A60707-E73636-FE7C7C&imgStyle=square&imgBorderRadius=25px&hideSpotify=true">
+    <img alt="seitan_meioo's Discord Presence" src="https://lanyard.kyrie25.dev/api/757666085767086132?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=A60707-E73636-FE7C7C&imgStyle=square&imgBorderRadius=25px&hideSpotify=true">
   </a>
 </p>
 
