@@ -1,82 +1,37 @@
-<p align="center">
-<!--  <img width="100px" src="" align="center" alt="Banner" /> -->
- <h1 align="center">🔥 Seitan_Karpoo 🔥</h1>
-</p>  
+# 🔥 Seitan_Karpoo 🔥
 
-<p align="center">
-  <a href="https://github.com/seitanmeitoo">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/seitanmeitoo?logo=GitHub&style=for-the-badge">
-  </a>
-  <a href="https://github.com/seitanmeitoo">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/seitanmeitoo?logo=github&style=for-the-badge">
-  </a>
-  <a href="https://github.com/sponsors/seitanmeitoo">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/seitanmeitoo?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github">
-  </a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/seitanmeitoo?logo=GitHub&style=for-the-badge)](https://github.com/seitanmeitoo)
+[![GitHub Stars](https://img.shields.io/github/stars/seitanmeitoo?logo=github&style=for-the-badge)](https://github.com/seitanmeitoo)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/seitanmeitoo?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20GitHub)](https://github.com/sponsors/seitanmeitoo)
 
-<p align="center">
-  <a href="https://discord.com/users/757666085767086132">
-    <img alt="seitan_meioo's Discord Presence" src="https://lanyard.kyrie25.dev/api/757666085767086132?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=A60707-E73636-FE7C7C&imgStyle=square&imgBorderRadius=25px&hideSpotify=true">
-  </a>
-</p>
+[![seitan_meioo's Discord Presence](https://lanyard.kyrie25.dev/api/757666085767086132?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=A60707-E73636-FE7C7C&imgStyle=square&imgBorderRadius=25px&hideSpotify=true)](https://discord.com/users/757666085767086132)
 
 ## About me 💬
-*In future...*
+
+Étudiant passionné par le code, le gaming et l'IA. Je construis des projets allant de l'automatisation à la manipulation mémoire bas niveau, en passant par des outils créatifs.
 
 ## Experience 💻
 
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</a>
-<a href="https://nodejs.org/docs/latest/api">
-   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine">
-   <img src="https://img.shields.io/badge/Unreal_Engine-181818.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-</a>
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-%23438534.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-181818.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://dev.epicgames.com/documentation/en-us/unreal-engine)
 
+## Projects 🚀
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [**ForzaPainter 6**](https://github.com/seitanmeitoo/ForzaPainter6) | Convertit une image en formes géométriques injectées dans Forza Horizon 6 via `WriteProcessMemory` | C, Nuklear, GDI |
 
 ## Stats ✨
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seitanmeitoo&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seitanmeitoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[![stats graph](https://github-readme-stats-eight-theta.vercel.app/api?username=seitanmeitoo&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false)](https://github.com/seitanmeitoo)
+[![languages graph](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seitanmeitoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false)](https://github.com/seitanmeitoo)
 
-###
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seitanmeitoo&theme=github-dark&hide_border=false)](https://github.com/seitanmeitoo)
 
-<img src="https://raw.githubusercontent.com/seitanmeitoo/seitanmeitoo/output/snake.svg" alt="Snake animation"/>
+[![Snake animation](https://raw.githubusercontent.com/seitanmeitoo/seitanmeitoo/output/snake.svg)](https://github.com/seitanmeitoo)
 
-###
-
-<div align="center">
- <a href="https://twitter.com/seitan_meitoo">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
- </a>
- <a href="https://discord.com/users/757666085767086132">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
- </a>
- <a href="">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
- </a>
-</div>
-
-###
-
-<!-- ## Repository popular 📫
-[![handler-discord.js-v13](https://github-readme-stats.vercel.app/api/pin/?username=seitanmeitoo&repo=handler-discord.js-v13&theme=transparent)](https:/github.com/seitanmeitoo)
-
-**seitanmeitoo/seitanmeitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![twitter logo](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/seitan_meitoo)
+[![discord logo](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/757666085767086132)
