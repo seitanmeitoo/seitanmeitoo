@@ -4,8 +4,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/seitanmeitoo?logo=github&style=for-the-badge)](https://github.com/seitanmeitoo)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/seitanmeitoo?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20GitHub)](https://github.com/sponsors/seitanmeitoo)
 
-[![seitan_meioo's Discord Presence](https://lanyard.kyrie25.dev/api/757666085767086132?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=A60707-E73636-FE7C7C&imgStyle=square&imgBorderRadius=25px&hideSpotify=true)](https://discord.com/users/757666085767086132)
-
 ## About me 💬
 
 Étudiant passionné par le code, le gaming et l'IA. Je construis des projets allant de l'automatisation à la manipulation mémoire bas niveau, en passant par des outils créatifs.
