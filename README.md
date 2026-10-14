@@ -6,7 +6,7 @@
 
 ## About me 💬
 
-Étudiant passionné par le code, le gaming et l'IA. Je construis des projets allant de l'automatisation à la manipulation mémoire bas niveau, en passant par des outils créatifs.
+IT Student. Building low-level tools & AI experiments. Into gaming, C and creative hacks. 🎮
 
 ## Experience 💻
 
@@ -15,12 +15,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-%23438534.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-181818.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://dev.epicgames.com/documentation/en-us/unreal-engine)
-
-## Projects 🚀
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [**ForzaPainter 6**](https://github.com/seitanmeitoo/ForzaPainter6) | Convertit une image en formes géométriques injectées dans Forza Horizon 6 via `WriteProcessMemory` | C, Nuklear, GDI |
 
 ## Stats ✨
 
